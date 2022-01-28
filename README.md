@@ -6,6 +6,7 @@ This is an introductory project on the workings of SwiftUI. The link to the orig
 
 <p align="center">
   <img width="300" height="600" src="./Images/main.png">
+  <br>
   <img width="300" height="600" src="./Images/detail.png">
 </p>
 
